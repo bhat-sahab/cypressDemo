@@ -34,4 +34,11 @@ To use the code in this repository, follow these steps:
    npx cypress run --headed
    ```
    
-   
+## Results
+![Running from commandline](./images/run.png?raw=tru)
+![Testcase 1](./images/test1.png?raw=tru)
+![Testcase 2](./images/test2.png?raw=tru)
+![Testcase 3](./images/test3.png?raw=tru)
+![Testcase 4](./images/test4.png?raw=tru)
+![Testcase 5](./images/test5.png?raw=tru)
+![Testcase 6](./images/test6.png?raw=tru)
